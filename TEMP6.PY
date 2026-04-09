@@ -1,0 +1,1 @@
+# naive bayes therom #probabiltiy theorem #.independent event #. dependent event #p(h)=1/2#p(t)=1/3
